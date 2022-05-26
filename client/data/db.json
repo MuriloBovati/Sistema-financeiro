@@ -2,8 +2,10 @@
     "data":[
         {
             "id": 1,
+            "data": "18/03/2022",
+            "categoria": "Recebimento",
             "titulo": "Salario",
-            "data": "18/03/2022"
+            "valor": 4000
         }
     ]
 
